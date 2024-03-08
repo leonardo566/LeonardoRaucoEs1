@@ -11,10 +11,11 @@
 //var_dump ($is_student);
 //echo gettype($float);
 
-//const NOME = 'luca';
-//var_dump($NOME);
+//$stringa = 'ciao';
+//const PAROLA ="ciao sono la costante";
+// echo PAROLA;
 
-//$nome = 'leo';
+
 
 //Traccia2 
 
@@ -32,7 +33,8 @@
 //echo $text5 . " " . $text6 . " " . $text7 . " " . $text8;
 
 
-$words1 = [
+//$words1 =
+ [
     'una',
     67,
     'vita',
@@ -73,3 +75,9 @@ $words1 = [
     'ché'
     ]
     ];
+//var_dump($words1);
+//print_r($words1);
+//$d = 'dì';
+//$resutl = $words1[6][3][1][1] . " " . $words1[6][3][0] . " del " . $words1[6][3][1][0] . "  " . $d . " " . $words2['elemento2'] . " " . $words1[2]. " " . $words1[4] . " ". $words1[6][4] . " " . $words1[0] . " " . $words1[6][3][1][2][0] . " " . $words1[6][0] . " " . $words2['elemento3'][2] . " " . $words1[6][3][1][2][1] . " " . $words1[7] . " " . $words1[6][3][1][2][2][0] . " " . $words1[6][1] . " " . $words2['elemento3'][1];
+ //echo $resutl;
+ 
